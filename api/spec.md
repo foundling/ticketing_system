@@ -9,7 +9,7 @@ The ticket resource describes a task to be done. A ticket resource must be creat
 #### Ticket Properties
 
 + id
-+ title
++ name
 + priority
 + project_id
 + project_name
@@ -17,7 +17,7 @@ The ticket resource describes a task to be done. A ticket resource must be creat
 + assigned
 + due
 + stage
-+ status
++ open
 
 Additionally, it may have the following properties:
 

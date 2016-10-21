@@ -1,0 +1,27 @@
+{
+  "name": "ticketing_system",
+  "version": "1.0.0",
+  "description": "a demo ticketing system",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundling/ticketing_system.git"
+  },
+  "author": "Alex Ramsdell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundling/ticketing_system/issues"
+  },
+  "homepage": "https://github.com/foundling/ticketing_system#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.4"
+  }
+}
